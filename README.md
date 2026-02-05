@@ -16,7 +16,6 @@ A responsive **Netflix Clone** built using **React.js** and **JavaScript**, depl
 ---
 
 ## 🛠️ Tech Stack
-- **React.js**
 - **JavaScript (ES6+)**
 - **CSS3 / Flexbox**
 - **Netlify** (deployment)
